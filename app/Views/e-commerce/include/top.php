@@ -13,5 +13,5 @@
 		<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
 		<link href="<?= base_url() ?>e-commerce/css/tiny-slider.css" rel="stylesheet">
 		<link href="<?= base_url() ?>e-commerce/css/style.css" rel="stylesheet">
-		<title>Furni Free Bootstrap 5 Template for Furniture and Interior Design Websites by Untree.co </title>
+		<title>Furni Furniture Shop </title>
 	</head>

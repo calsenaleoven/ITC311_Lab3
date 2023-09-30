@@ -4,8 +4,13 @@ namespace App\Controllers;
 
 class Home extends BaseController
 {
-    public function index(): string
+    public function __construc()
     {
-        return view('welcome_message');
+        $this->product = new \App\Models\ProductModel();
+    }
+
+    public function index()
+    {
+        return view('login');
     }
 }
